@@ -1,0 +1,9 @@
+venv/
+neust-qa-bert-model/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.7z
+.DS_Store
+Thumbs.db
