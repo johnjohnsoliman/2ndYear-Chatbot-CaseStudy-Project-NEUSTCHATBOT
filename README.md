@@ -44,7 +44,7 @@ A web‑based chatbot that helps students quickly get accurate information from 
 
 ## Acknowledgments
 
-- Built for the NEUST College of Information and Communications Technology
+- Built for the NEUST Students
 - Uses Hugging Face Transformers, PyTorch, Flask, and PyMuPDF
 
 
